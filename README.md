@@ -13,7 +13,7 @@ The presentation gives demonstrates an idealised physical setup of the hardware 
 
 ## Original Presentation of Material
 
-The original material was presented at the April Meeting of the Toronto, Canada *Python Meetup* group [see](http://www.meetup.com/Python-Toronto/events/229959373/).  This original material is archived on the Meetup WWW site including the 20 slide presentation and videos referenced in it.
+The original material was presented at the April Meeting of the Toronto, Canada *Python Meetup* group [see](http://www.meetup.com/Python-Toronto/events/229959373/).  This original material is archived on the Meetup WWW site including the ~30 slide presentation and videos referenced in it.
 
 
 Future plans include the detection of audio and video events together and taking actions based upon these and improvement of the 'skew' correction of the image.
